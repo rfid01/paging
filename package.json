@@ -1,0 +1,19 @@
+{
+	"name":"nodeJs-paging",
+	"version":"1.0.1",
+	"description":"nodejs page",
+	"main":"./lib/page.js",
+	"dependencies":{
+		
+	},
+	"repository":{
+		"type":"git",
+		"url":"git+https://github.com/rfid01/paging.git"
+	},
+	"scripts":{
+	
+	},
+	"keywords":['page'],
+	"author":"aming",
+	"license":"ISC"
+}
