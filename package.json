@@ -1,19 +1,15 @@
 {
-	"name":"nodeJs-paging",
-	"version":"1.0.1",
-	"description":"nodejs page",
+	"name":"node-pagingjs",
+	"version":"1.0.2",
+	"description":"基于nodejs分页page类.",
 	"main":"./lib/page.js",
-	"dependencies":{
-		
-	},
+
 	"repository":{
 		"type":"git",
 		"url":"git+https://github.com/rfid01/paging.git"
 	},
-	"scripts":{
-	
-	},
+
 	"keywords":[],
-	"author":"aming",
+	"author":"wlg0052",
 	"license":"MIT"
 }
